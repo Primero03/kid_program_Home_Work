@@ -1,0 +1,15 @@
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\bin\Debug\net7.0\Hw01.exe
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\bin\Debug\net7.0\Hw01.deps.json
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\bin\Debug\net7.0\Hw01.runtimeconfig.json
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\bin\Debug\net7.0\Hw01.dll
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\bin\Debug\net7.0\Hw01.pdb
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\obj\Debug\net7.0\Hw01.csproj.AssemblyReference.cache
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\obj\Debug\net7.0\Hw01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\obj\Debug\net7.0\Hw01.AssemblyInfoInputs.cache
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\obj\Debug\net7.0\Hw01.AssemblyInfo.cs
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\obj\Debug\net7.0\Hw01.csproj.CoreCompileInputs.cache
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\obj\Debug\net7.0\Hw01.dll
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\obj\Debug\net7.0\refint\Hw01.dll
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\obj\Debug\net7.0\Hw01.pdb
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\obj\Debug\net7.0\Hw01.genruntimeconfig.cache
+D:\Primero\Music\Knowledge\Developer(GeekBrainds)\HomeWork\Hw01\obj\Debug\net7.0\ref\Hw01.dll
