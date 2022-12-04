@@ -37,38 +37,38 @@
  }   
 */
 ///Домашка02.03-Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
-int a = int.Parse(Console.ReadLine());
+int day = int.Parse(Console.ReadLine());
 
-if (a == 1){
+if (day == 1){
     Console.WriteLine("Понедельник");
     Console.Write("Будний день");
 }
-else if (a == 2)
+else if (day == 2)
 {
     Console.WriteLine("Вторник");
     Console.Write("Будний день");
 }
-else if (a == 3)
+else if (day == 3)
 {
     Console.WriteLine("Среда");
     Console.Write("Будний день");
 }
-else if (a == 4)
+else if (day == 4)
 {
     Console.WriteLine("Четверг");
     Console.Write("Будний день");
 }
-else if (a == 5)
+else if (day == 5)
 {
     Console.WriteLine("Пятница");
     Console.Write("Будний день");
 }
-else if (a == 6)
+else if (day == 6)
 {
     Console.WriteLine("Суббота");
     Console.Write("Выходной");
 }
-else if (a == 7)
+else if (day == 7)
 {
     Console.WriteLine("Воскресенье");
     Console.Write("Выходной");
