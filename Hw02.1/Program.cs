@@ -38,3 +38,23 @@ if(num < 100)
 int numTri = num % 10;
 Console.WriteLine(numTri);
 */
+
+// Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+
+Console.Write("Число дня:");
+bool isParsed = int.TryParse(Console.ReadLine(), out int day);
+
+if (day > 7 || day < 1)
+{
+    Console.Write("Такого дня не изобрели;");
+    Console.WriteLine("Еще разок давай");
+    day = int.Parse(Console.ReadLine());
+}
+if (day > 0 & day < 6)
+{
+    Console.WriteLine("Итс будний день");
+}
+if (day > 5 & day < 8)
+{
+    Console.WriteLine("Итс выходной");
+}
